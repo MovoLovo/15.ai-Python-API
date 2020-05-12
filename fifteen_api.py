@@ -25,7 +25,7 @@ class FifteenAPI:
         "sec-fetch-dest": "empty",
         "sec-fetch-mode": "cors",
         "sec-fetch-site": "same-site",
-        "user-agent": "python-requests 15.ai-Python-API(https://github.com/wafflecomposite/15.ai-Python-API)"
+        "user-agent": "python-requests 15.ai-Python-API(https://github.com/movolovo/15.ai-Python-API)"
     }
 
     app_page_url = "https://fifteen.ai"
