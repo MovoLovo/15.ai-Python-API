@@ -5,6 +5,12 @@ text = input("Text to Translate: ")
 
 text = text.lower()
 text = text.replace("l", "w")
+text = text.replace("r", "w")
+
+text = text.replace("uwu", "euuw woo")
+text = text.replace("owo", "oh woaw")
+
+print(text)
 
 info = {
     "text": f"{text}",
